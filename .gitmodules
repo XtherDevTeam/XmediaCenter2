@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = http://www.xiaokang00010.top:4001/xiaokang00010/xms-2-frontend
+[submodule "backend"]
+	path = backend
+	url = http://www.xiaokang00010.top:4001/xiaokang00010/xms-2-backend
+[submodule "desktop"]
+	path = desktop
+	url = http://www.xiaokang00010.top:4001/xiaokang00010/xms-2-desktop
