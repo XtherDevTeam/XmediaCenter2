@@ -13,3 +13,8 @@ deploy: buildFrontend buildBackend
 
 runBackend:
 	cd backend; python3 app.py
+
+update:
+	cd backend; git pull origin master
+	cd frontend; git pull origin master
+	cd desktop; git pull origin master
