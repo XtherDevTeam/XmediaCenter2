@@ -22,7 +22,7 @@ This project and all affiliated repositories of the project are under **MIT Lice
 
 ## Deploy
 
-The backend is currently not supportive to Windows platform. In this case, we use `ubuntu-20.04` for example.
+The backend doesn't support Windows platform currently. In this case, we use `ubuntu-20.04` for example.
 
 You need to install Python 3 and Nginx through the following command line
 
