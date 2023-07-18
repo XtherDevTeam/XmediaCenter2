@@ -11,13 +11,13 @@ This project and all affiliated repositories of the project are under **MIT Lice
 **Implemented:**
 - File managing
 - Multi-user support
+- Music entertainment feature
+- File sharing
 
 **Unimplemented:**
-- Integrate music downloader into file manager using `spotdl`
-- Integrate video downloader into file manager using `you-get`
-- Music entertainment feature
+- Integrate music downloader into file manager by using `spotdl`
+- Integrate video downloader into file manager by using `you-get`
 - Video player with danmaku and subtitle support
-- File sharing
 - Playlist sharing
 
 ## Deploy
