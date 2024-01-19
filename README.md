@@ -72,6 +72,10 @@ After that, you can use `make runBackend` to start a XmediaCenter 2 backend inst
 - [Flask-CORS](https://github.com/CoryDolphin/flask-cors) by [CoryDolphin](https://github.com/CoryDolphin)
 - [music-tag](https://pypi.org/project/music-tag/) by [Kristofor Maynard](mailto:kristofor.maynard@gmail.com)
 
+## Known issues
+
+- `sortId` of songs might be wrong when deleting a song and insert a new one.
+
 ## Acknowledgement
 
 - Thanks for Yoimiya who encouraged me a lot when I'm developing this project.
