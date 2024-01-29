@@ -74,7 +74,7 @@ After that, you can use `make runBackend` to start a XmediaCenter 2 backend inst
 
 ## Known issues
 
-- `sortId` of songs might be wrong when deleting a song and insert a new one.
+- <s>`sortId` of songs might be wrong when deleting a song and insert a new one.</s> (Fixed)
 
 ## Acknowledgement
 
